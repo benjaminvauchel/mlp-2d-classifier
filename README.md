@@ -56,11 +56,12 @@ The notebook explores several configurations:
 
 
 ## Project Structure
-
+```
 mlp-2d-classifier/
 ├── main.ipynb # Main Jupyter notebook with full implementation and results
 ├── Report (academic).pdf # Assignment report
 └── README.md
+```
 
 ## Requirements
 
