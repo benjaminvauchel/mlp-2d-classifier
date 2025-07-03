@@ -45,7 +45,7 @@ The notebook explores several configurations:
   - Adam (best convergence)
 
 ### Best Configuration
-```
+
 | Parameter           | Value                |
 |---------------------|----------------------|
 | Architecture        | [2, 50, 25, 1]       |
@@ -53,7 +53,7 @@ The notebook explores several configurations:
 | Learning rate       | 0.005                |
 | Batch size          | 500                  |
 | Accuracy (Test set) | ~99.5%               |
-```
+
 
 ## Project Structure
 
