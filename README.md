@@ -1,6 +1,6 @@
 # Neural Network from Scratch — 2D Nonlinear Classification
 
-This mini-project is a full implementation of a feedforward neural network (multilayer perceptron) in Python — entirely **from scratch** using only built-in libraries and `numpy`. It solves a two-dimensional **nonlinear binary classification problem** through supervised learning.
+This mini-project is a full implementation of a feedforward neural network (multilayer perceptron) in Python, entirely **from scratch** using only built-in libraries and `numpy`. It solves a two-dimensional **nonlinear binary classification problem** through supervised learning.
 
 The mini-project was created as part of the COEN 6331 Neural Networks course at Concordia University.
 
